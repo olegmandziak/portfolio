@@ -1,0 +1,19 @@
+Minute Bakery | Responsive Website Development
+
+I collaborated with a team of frontend developers on the Minute Bakery project, responsible for creating a responsive website that showcases the finest cakes, pastries, and desserts in Surrey, British Columbia. The website was designed to provide an exceptional user experience across all platforms, ensuring that customers could easily place orders and browse the bakery’s offerings.
+
+- Led the development of the responsive design to ensure seamless performance on desktops, tablets, and mobile devices.
+- Utilized React for efficient and modular frontend development, and TypeScript to enhance code quality and maintainability.
+- Implemented custom styles using CSS and Bootstrap to create a visually appealing and user-friendly interface.
+- Ensured compatibility across various browsers and devices, providing a consistent user experience.
+- Optimized the website for fast loading times and smooth interactions, improving overall user satisfaction.
+
+Skills and Technologies:
+
+Web Development
+JavaScript
+TypeScript
+React
+CSS
+HTML5
+Bootstrap

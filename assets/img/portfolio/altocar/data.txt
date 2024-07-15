@@ -1,0 +1,36 @@
+AltoCar (Altokar) | Mobile Application Development
+cutt.ly/FjgzxNa 
+
+A service designed to offer affordable, comfortable, and reliable transportation within the city. The app not only facilitates easy and affordable city travel but also allows users to choose their preferred drivers, ensuring a personalized and enjoyable experience.
+
+A fully functional cross-platform mobile application
+Real-time driver tracking and user authentication
+Integration of multiple fare options (Economy, Comfort, and Business)
+Seamless user interface and experience across both iOS and Android platforms
+Comprehensive analytics setup for performance tracking
+
+
+
+-Designed and implemented RESTful APIs to ensure efficient and reliable communication between the app and the server.
+- Utilized React Native to develop a cross-platform mobile application, ensuring a consistent user experience across both iOS and Android devices.
+- Implemented Redux for effective state management, ensuring smooth and predictable application behavior.
+- Integrated Firebase for real-time database management, user authentication, and push notifications.
+- Integrated Google Maps to enable real-time tracking of drivers’ locations, enhancing user convenience.
+- Focused on creating a user-friendly interface with Apple Xcode for iOS and Android Studio for Android, ensuring seamless app performance.
+- Incorporated Google Analytics to track user interactions and gather insights for continuous app improvement.
+
+
+Skills and Technologies:
+
+RESTful Architecture
+React Native
+Redux
+Firebase
+Google Maps API
+Google Analytics
+Apple Xcode
+Android Studio
+JavaScript
+iOS and Android Development
+
+

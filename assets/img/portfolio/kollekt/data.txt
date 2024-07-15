@@ -1,0 +1,26 @@
+Kollekt | Fashion Design and Development Platform
+
+A platform designed to enhance efficiency in the fashion design and development process. Kollekt offers solutions for collaboration, trend analysis, collection planning, and more, leveraging data to streamline operations and inform decisions. My role involved adding new features and ensuring seamless integration of business logic into the web app through close communication with both design and backend teams.
+
+
+- Collaborated with design and backend teams to implement new features, ensuring seamless integration of business logic.
+- Delivered a pixel-perfect and responsive web app across multiple devices, with a focus on tablets and desktops to cater to most users.
+- Utilized Vuex for consistent and predictable state management across all components.
+- Employed Tailwind CSS and SCSS to create flexible and custom styling solutions, adhering to the pixel-perfect design requirements.
+- Used Vue.js for building a reactive and engaging user interface.
+- Applied HTML5 and CSS for structuring and presenting content on the web app.
+- Integrated REST APIs for dynamic data exchange and real-time updates, ensuring seamless communication with backend services.
+
+
+Skills and Technologies:
+
+Vue.js
+Vuex
+Tailwind CSS
+SCSS
+HTML5
+CSS
+REST API
+Responsive Web Design
+
+https://app.kollekt.dk
